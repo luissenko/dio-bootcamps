@@ -1,7 +1,7 @@
-# Bootcamps Santander/DIO 2022
+# Bootcamps da DIO
 
 **Seja bem vindo (a)!** :metal:
 
-Aqui você encontrará materiais e projetos dos Bootcamps Santander Fullstack e Mobile na DIO.
+Aqui você encontrará materiais e projetos referentes aos bootcamps e cursos da DIO.
 
 Divirta-se! 
